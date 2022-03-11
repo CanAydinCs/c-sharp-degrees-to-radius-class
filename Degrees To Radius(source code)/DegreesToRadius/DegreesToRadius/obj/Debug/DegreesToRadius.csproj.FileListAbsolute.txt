@@ -1,0 +1,12 @@
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\DegreesToRadius\DegreesToRadius\bin\Debug\DegreesToRadius.dll
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\DegreesToRadius\DegreesToRadius\bin\Debug\DegreesToRadius.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\DegreesToRadius\DegreesToRadius\obj\Debug\DegreesToRadius.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\DegreesToRadius\DegreesToRadius\obj\Debug\DegreesToRadius.csproj.CoreCompileInputs.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\DegreesToRadius\DegreesToRadius\obj\Debug\DegreesToRadius.dll
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\DegreesToRadius\DegreesToRadius\obj\Debug\DegreesToRadius.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Yaptığım Classlar\DegreesToRadius\DegreesToRadius\bin\Debug\DegreesToRadius.dll
+C:\Users\EM&ES BİLGİSAYAR\Source\Yaptığım Classlar\DegreesToRadius\DegreesToRadius\bin\Debug\DegreesToRadius.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Yaptığım Classlar\DegreesToRadius\DegreesToRadius\obj\Debug\DegreesToRadius.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Yaptığım Classlar\DegreesToRadius\DegreesToRadius\obj\Debug\DegreesToRadius.csproj.CoreCompileInputs.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Yaptığım Classlar\DegreesToRadius\DegreesToRadius\obj\Debug\DegreesToRadius.dll
+C:\Users\EM&ES BİLGİSAYAR\Source\Yaptığım Classlar\DegreesToRadius\DegreesToRadius\obj\Debug\DegreesToRadius.pdb
